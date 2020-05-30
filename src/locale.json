@@ -1,0 +1,106 @@
+{
+    "lang": [
+        {
+            "menu": {
+                "dashboard": "Dashboard",
+                "members": "Members",
+                "reports": "Reports",
+                "ecard": "E-Card",
+                "support": "For Support"
+            },
+            "login": {
+                "signIn": "Login",
+                "signOut": "Logout",
+                "username": "Username",
+                "password": "Password",
+                "rememberPassword": "Remember Password",
+                "forgotPassword": "Forgot Password ?",
+                "resetPassword": "Reset Password",
+                "submit": "Submit",
+                "notRegistered": "Not yet registered ?",
+                "signUp": "Sign Up"
+            },
+            "footer": {
+                "copyright": "Copyright@2019",
+                "contactUs": "Contact Us",
+                "aboutUS": "About Us",
+                "careers": "Careers"
+            },
+            "dashboard": {
+                "myDashboard": "My Dashboard"
+            },
+            "members": {
+                "members": "Members"
+            },
+            "editor": {
+                "district": "District",
+                "constituency": "Constituency",
+                "boothNumber": "Polling Booth Number",
+                "boothName": "Polling Booth Name",
+                "maleVoters": "Male Voters",
+                "femaleVoters": "Female Voters",
+                "thirdGender": "Third Gender Voters",
+                "totalVoters": "Total Voters",
+                "submit": "Submit",
+                "selectDistrict": "Select District",
+                "selectConstituency": "Select Constituency",
+                "totalMissmatch": "Total voters count is not matching the above count . It should match the sum of MV, FV, TGV",
+                "recordAdded": "Record added successfully",
+                "recordFailed": "Not able to add the record",
+                "ok": "OK",
+                "close": "Close"
+            }
+        },
+        {
+            "menu": {
+                "dashboard": "முகப்புப்பெட்டி",
+                "members": "உறுப்பினர்கள",
+                "reports": "அறிக்கைகள்",
+                "ecard": "E-அட்டை",
+                "support": "ஊக்குதவி"
+            },
+            "login": {
+                "signIn": "உள் நுழை",
+                "signOut": "வெளியேறு",
+                "username": "பயனர்பெயர்",
+                "password": "கடவுச்சொல்",
+                "rememberPassword": "கடவுச்சொல்லை சேமி ",
+                "forgotPassword": "கடவுச்சொல்லை மறந்துவிட்டீரா ?",
+                "resetPassword": "கடவுச்சொல்லை மீட்டமைக்க",
+                "submit": "சமர்ப்பி",
+                "notRegistered": " இன்னும் பதிவு செய்யவில்லையா ?",
+                "signUp": "பதிவு செய்"
+            },
+            "footer": {
+                "copyright": "பதிப்புரிமை@2019",
+                "contactUs": "எங்களை தொடர்பு கொள்ள",
+                "aboutUS": "எங்களை பற்றி",
+                "careers": "வேலை வாய்ப்புகள"
+            },
+            "dashboard": {
+                "myDashboard": "முகப்புப்பெட்டி"
+            },
+            "members": {
+                "members": "உறுப்பினர்கள"
+            },
+            "editor": {
+                "district": "மாவட்டம்",
+                "constituency": "சட்டமன்ற தொகுதி",
+                "boothNumber": "வாக்குச்சாவடி எண்",
+                "boothName": "வாக்குச்சாவடி பெயர்",
+                "maleVoters": "ஆண் வாக்காளர்கள்",
+                "femaleVoters": "பெண் வாக்காளர்கள்",
+                "thirdGender": "மூன்றாம் பாலின  வாக்காளர்கள்",
+                "totalVoters": "மொத்த  வாக்காளர்கள்",
+                "submit": "சமர்ப்பி",
+                "selectDistrict": "மாவட்டத்தைத் தேர்ந்தெடுக்கவும்",
+                "selectConstituency": "தொகுதியைத் தேர்ந்தெடுக்கவும்",
+                "totalMissmatch": "மொத்த வாக்காளர்களின் எண்ணிக்கை மேலே உள்ள எண்ணிக்கையுடன் பொருந்தவில்லை . இது கூட்டுத்தொகையுடன் பொருந்த வேண்டும்",
+                "recordAdded": "பதிவு வெற்றிகரமாக சேர்க்கப்பட்டது",
+                "recordFailed": "பதிவைச் சேர்க்க முடியவில்லை",
+                "ok": "சரி",
+                "close": "மூடு"
+            }
+        }
+    ]
+}
