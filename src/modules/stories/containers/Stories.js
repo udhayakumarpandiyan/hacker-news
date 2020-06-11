@@ -72,7 +72,7 @@ class Stories extends Component {
                     {stories && stories.length > 0 &&
                         stories.map((story, index) => {
                             return (
-                                <Story story={story} searchText={this.props.searchText} />
+                                <Story key={story.author+index} story={story} searchText={this.props.searchText} />
                             )
                         })
                     }
