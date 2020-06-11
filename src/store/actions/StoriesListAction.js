@@ -6,7 +6,7 @@ const onFail = msg => ({
     msg
 });
 
-const onGetNewsItemsSuccess = payload => {
+const onGetStoriesListSuccess = payload => {
     return {
         payload,
         type: TYPES.GET_STORIES_LIST,
@@ -32,7 +32,7 @@ export const getStoriesList = (id = 1) => {
                         return;
                     }
                     response.json().then(function (data) {
-                        dispatch(onGetNewsItemsSuccess(data));
+                        dispatch(onGetStoriesListSuccess(data));
                     });
                 }
             )

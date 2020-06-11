@@ -1,11 +1,9 @@
 import React from 'react';
-import StoriesList from '../../modules/stories/containers/StoriesList';
+import Stories from '../../modules/stories/containers/Stories';
 
 const MainContent = (props) => {
-
-    console.log("sdfdsadfsd", props.searchResults);
     return (<div className="content">
-        <StoriesList isSearch={props.isSearch}
+        <Stories isSearch={props.isSearch}
             searchText={props.searchText}
             searchResults={props.searchResults} />
     </div>)

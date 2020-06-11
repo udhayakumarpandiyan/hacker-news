@@ -1,10 +1,10 @@
 import { GET_STORIES_LIST, GET_SEARCH_RESULTS } from "../types";
 const initialState = {
     storiesList: [],
-    searchResults: undefined
+    searchResults: []
 }
 
-export default function shoppingList(state = initialState, action) {
+export default function getStoriesList(state = initialState, action) {
     switch (action.type) {
         case GET_STORIES_LIST:
             return {

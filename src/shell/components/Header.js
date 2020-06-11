@@ -5,9 +5,9 @@ import { faSearch } from '@fortawesome/free-solid-svg-icons';
 const Header = (props) => {
 
     const searchText = (event) =>{
-        console.log("RETERT :", event)
         props.onSearchText(event.target.value);
     }
+    
     return (
         <div className="header">
             {/* <img src={AppLogo} /> */}
