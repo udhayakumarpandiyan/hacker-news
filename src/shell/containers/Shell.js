@@ -3,7 +3,6 @@ import { connect } from 'react-redux';
 import Header from '../components/Header';
 import MainContent from '../components/Content';
 import Footer from '../components/Footer';
-import RoutePath from '../../route';
 import { getSearchResults } from '../../store/actions/StoriesListAction';
 
 import '../styles/index.scss';

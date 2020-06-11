@@ -24,7 +24,7 @@ export const getStoriesList = (id = 1) => {
     
     return (dispatch) => {
 
-        fetch(`${API.newsItems.getStoriesList}/${id}`
+        fetch(`${API.newsItems.getStoriesList}${id}`
         )
             .then(
                 function (response) {
